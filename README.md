@@ -2,7 +2,7 @@
 
 Project Structure
 
-1 index.js : Responsible for connecting the MongoDB and starting the server.
+1 index.js -> Responsible for connecting the MongoDB and starting the server.
 
 2 routes -> centerRoutes.js: The goal of the route is to guide the request to the correct handler function which will be in one of the controllers and Handle the application request, interact with models and send back the response to the client
 
