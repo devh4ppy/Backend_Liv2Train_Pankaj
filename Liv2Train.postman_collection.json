@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "7b4d4e66-d151-4a2d-b664-5e6a8d3f1aab",
+		"name": "Liv2Train",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Add-Center",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Get-All-Centers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
